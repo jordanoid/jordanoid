@@ -4,9 +4,9 @@ About me
 --
 - My name is Jordano
 - I'm from Indonesia
-- Computer Engineering Student at Diponegoro University
+- Currently a Computer Engineering Student at Diponegoro University
 - I’m interested in Machine Learning, Embedded System and Microcontroller
-- You can reach me via my instagram @jordanoid
+- You can reach me via my Instagram @jordanoid
 
 <!---
 jordanoid/jordanoid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
