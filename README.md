@@ -6,7 +6,7 @@ About me
 - I'm from Indonesia
 - Currently a Computer Engineering Student at Diponegoro University
 - I’m interested in Machine Learning, Embedded System and Microcontroller
-- Here is my [LinkedIn](linkedin.com/in/jordanoid), [Instagram](instagram.com/jordanoid)
+- Here is my [LinkedIn](https://www.linkedin.com/in/jordanoid/), [Instagram](https://www.instagram.com/jordanoid/)
 
 <!---
 jordanoid/jordanoid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
