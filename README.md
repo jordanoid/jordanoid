@@ -5,7 +5,7 @@ About me
 - My name is Jordano
 - I'm from Indonesia
 - Currently a Computer Engineering Student at Diponegoro University
-- I’m interested in Machine Learning, Embedded System and Robotics
+- I’m interested in IoT, Embedded System and Robotics
 - Here is my [LinkedIn](https://www.linkedin.com/in/jordanoid/), [Instagram](https://www.instagram.com/jordanoid/)
 
 <!---
