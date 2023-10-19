@@ -6,7 +6,7 @@ About me
 - I'm from Indonesia
 - Currently a Computer Engineering Student at Diponegoro University
 - I’m interested in IoT, Embedded System and Robotics
-- Here is my [LinkedIn](https://www.linkedin.com/in/jordanoid/), [Instagram](https://www.instagram.com/jordanoid/)
+- Here is my [LinkedIn](https://www.linkedin.com/in/jordanoid/), [Instagram](https://www.instagram.com/jordano.id/)
 
 <!---
 jordanoid/jordanoid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
