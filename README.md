@@ -4,7 +4,7 @@ About me
 --
 - My name is Jordano
 - I'm from Indonesia
-- Computer Engineering Graduate from Diponegoro University
+- Computer Engineering graduate from Diponegoro University
 - I’m interested in IoT, Embedded System and Robotics
 - Here is my [LinkedIn](https://www.linkedin.com/in/jordanoid/), [Instagram](https://www.instagram.com/jordano.id/)
 
