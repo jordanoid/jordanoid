@@ -7,7 +7,7 @@ About me
 - Computer Engineering graduate from Diponegoro University
 - Firmware Engineer at synapsis.id
 - I’m interested in IoT, Embedded System and Robotics
-- Here is my [LinkedIn](https://www.linkedin.com/in/jordanoid/), [Instagram](https://www.instagram.com/jordano.id/)
+- Here is my [LinkedIn](https://www.linkedin.com/in/jordanoid/)
 
 <!---
 jordanoid/jordanoid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
