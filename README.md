@@ -5,8 +5,7 @@ About me
 - My name is Jordano
 - I'm from Indonesia
 - Computer Engineering graduate from Diponegoro University
-- Firmware Engineer at synapsis.id
-- I’m interested in IoT, Embedded System and Robotics
+- Firmware and Embedded Software Engineer
 - Here is my [LinkedIn](https://www.linkedin.com/in/jordanoid/)
 
 <!---
